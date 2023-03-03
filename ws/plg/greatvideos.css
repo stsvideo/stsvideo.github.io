@@ -1,0 +1,11 @@
+@charset utf-8
+.dfwindow{
+	border-radius: 10px;
+	border: 10px;
+	border-color: #232323;
+	background: #FFFFFF;
+}
+body{
+	background-color: #FFFFFF;
+}
+/* 为什么要看我的屑css？ by sungbly_tsstt */
