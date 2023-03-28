@@ -1,0 +1,21 @@
+.topbar{
+	height: auto;
+	width: 100%;
+	position: fixed;
+}
+body{
+	background-color: #FFFFFF;
+}
+.line{
+	background-color: #000000;
+	height: 1px;
+	width: 100%;
+}
+.TopVideo{
+	height: auto;
+	width: 100%;
+}
+@font-face{
+	font-family: "CangErYuMoW02";
+	src: url("../fonts/ceymW02.ttf") format("truetype");
+}

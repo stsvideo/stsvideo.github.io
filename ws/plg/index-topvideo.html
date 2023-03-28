@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+	<style>
+		@firstText{
+			color: #3b3b3b;
+		}
+	</style>
+</head>
+<body>
+	<div id="main"></div>
+	<span id="firstText">1</span>
+	<!--<link rel="javascript/text" href="index-topvodeo.js">-->
+	<script>
+		var objmain = document.getElementById("main");
+		var objtext = document.getElementById("firstText");
+		var Numberno;
+		function change(){
+			document.getElementById("firstText").innerText="no video now";
+		}
+		setTimeout(change(),10000);
+	</script>
+</body>
