@@ -18,16 +18,16 @@ function hrefToPathNF(){
 	var path;
 	path = getnfpath();
 	if(path == 1){
-		window.location.href="tags/404.html";
+		window.location.href="//stsvideo.github.io/tags/404.html";
 	}
 	if(path == 2){
-		window.location.href="video/404.html";
+		window.location.href="//stsvideo.github.io/video/404.html";
 	}
 	if(path == 3){
-		window.location.href="help/404.html";
+		window.location.href="//stsvideo.github.io/help/404.html";
 	}
 	if(path == 4){
-		window.location.href="ws/403.html"
+		window.location.href="//stsvideo.github.io/ws/403.html"
 	}
 	if(path == -1){
 		//nothing
